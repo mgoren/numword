@@ -1,0 +1,45 @@
+body {
+  background-color: #D1E1E5;
+  color: #666;
+}
+
+.container {
+  background-color: #FFF8CE;
+  margin-top: 150px;
+  border: 3px solid #666;
+  border-radius: 15px;
+  padding: 15px;
+  align: center;
+  width: 40%;
+  height: 40%;
+}
+
+h1 {
+  margin-top: 3px;
+}
+
+.form-label {
+  clear: left;
+  float: left;
+}
+
+.form-control {
+  clear: left;
+  float: left;
+  width: 75%;
+}
+
+
+/* Button Easy-moded with http://www.bestcssbuttongenerator.com/*/
+.butt {
+  margin: 4px 0 0 10px;
+  float: left;
+  border-radius: 15px;
+  background-color: #6BB45C;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 1px solid #18ab29;
+	color:#ffffff;
+	text-decoration:none;
+}
